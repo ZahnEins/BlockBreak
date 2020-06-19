@@ -1,0 +1,5 @@
+name: BlockBreak
+version: ${project.version}
+main: blockbreakevent.blockbreak.BlockBreak
+api-version: 1.15.2
+authors: [ZahnEins]
